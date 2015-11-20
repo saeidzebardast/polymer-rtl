@@ -1,0 +1,22 @@
+{
+  "name": "polymer-rtl",
+  "version": "0.1.0",
+  "authors": [
+    "Saeid Zebardast <saeid.zebardast@gmail.com>"
+  ],
+  "description": "Make Polymer elements Right-to-Left.",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "rtl"
+  ],
+  "main": "polymer-rtl.html",
+  "license": "MIT",
+  "homepage": "https://github.com/saeidzebardast/polymer-rtl/",
+  "ignore": [
+    "/.*"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.1.5"
+  }
+}

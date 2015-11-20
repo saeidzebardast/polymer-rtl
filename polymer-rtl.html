@@ -1,0 +1,19 @@
+<dom-module id="polymer-rtl">
+  <template>
+    <style>
+      body /deep/ .title-text,
+      body /deep/ label.paper-input,
+      body /deep/ paper-button,
+      body /deep/ input.paper-input
+      {
+        direction: rtl;
+        text-align: right;
+      }
+
+      body /deep/ .card-actions {
+        flex-direction: row-reverse;
+        display: flex;
+      }
+    </style>
+  </template>
+</dom-module>
