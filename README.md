@@ -6,7 +6,7 @@ Make Polymer elements Right-to-Left.
 
 Install using the bower:
 ```
-bower install nvd3-line
+bower install polymer-rtl
 ```
 
 Add the following line inside your <head> tag, after all other HTML imports:
